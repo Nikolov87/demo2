@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body {
+      margin: 0;
+  padding: 1;
+  background: url(https://www.wallpapertip.com/wmimgs/69-691636_best-background-images-for-website-wallpapers-high-good.jpg)
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(30, 155, 233);
+}
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 25px  ;
+    text-align: center;
+}
+
+li {
+        text-align: center;
+        display: inline;
+       
+}
+li a {
+    color: black;
+    padding: 30px 50px;
+    text-decoration: none;
+    text-align: center;
+}
+ 
+h3 {
+    text-align: center;
+}
+p {
+    color: black;
+}
+
+img {
+    float: left;
+  }
